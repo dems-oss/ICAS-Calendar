@@ -1,0 +1,447 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+PRODID:-//Microsoft Copilot//ICAS Term 4 2026 Self Study//EN
+X-WR-CALNAME:ICAS Term 4 2026 Self Study
+BEGIN:VEVENT
+UID:icas-selfstudy-rp1-20260928-1@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:RP1 - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:RP1,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-rp1-20260929-2@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:RP1 - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:RP1,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-bmf-20260930-3@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:BMF - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:BMF,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-bmf-20261001-4@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:BMF - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:BMF,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-blw-20261002-5@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:BLW - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:BLW,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-rp1-20261005-6@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:RP1 - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:RP1,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-tx-20261007-7@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:TX - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:TX,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-tx-20261008-8@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:TX - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:TX,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-asr-20261012-9@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:ASR - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:ASR,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-asr-20261013-10@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:ASR - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:ASR,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-bmf-20261014-11@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:BMF - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:BMF,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-tx-20261015-12@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:TX - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:TX,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-rp1-20261016-13@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:RP1 - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:RP1,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-bmf-20261019-14@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:BMF - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:BMF,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-bmf-20261022-15@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:BMF - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:BMF,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-tx-20261023-16@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:TX - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:TX,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-asr-20261026-17@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:ASR - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:ASR,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-asr-20261027-18@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:ASR - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:ASR,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-rp1-20261028-19@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:RP1 - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:RP1,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-rp1-20261029-20@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:RP1 - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:RP1,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-tx-20261030-21@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:TX - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:TX,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-blw-20261102-22@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:BLW - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:BLW,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-bmf-20261104-23@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:BMF - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:BMF,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-bmf-20261105-24@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:BMF - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:BMF,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-bmf-20261109-25@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:BMF - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:BMF,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-asr-20261110-26@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:ASR - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:ASR,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-asr-20261111-27@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:ASR - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:ASR,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-tx-20261112-28@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:TX - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:TX,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-tx-20261113-29@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:TX - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:TX,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-rp1-20261116-30@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:RP1 - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:RP1,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-asr-20261120-31@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:ASR - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:ASR,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-blw-20261123-32@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:BLW - Self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:BLW,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-asr-20261124-33@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:ASR - Mock + 0.5 self-study
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:ASR,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-rp1-20261124-34@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:RP1 - Mock + 0.5 self-study
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:RP1,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-bmf-20261125-35@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:BMF - Mock + 0.5 self-study
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:BMF,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-tx-20261125-36@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:TX - Mock + 0.5 self-study
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:TX,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-rp1-20261127-37@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:RP1 - 0.5 self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:RP1,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-tx-20261127-38@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:TX - 0.5 self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:TX,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-blw-20261203-39@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:BLW - 0.5 self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:BLW,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-bmf-20261203-40@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:BMF - 0.5 self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:BMF,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-bmf-20261204-41@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:BMF - 0.5 self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:BMF,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-tx-20261204-42@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:TX - 0.5 self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:TX,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-asr-20261207-43@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:ASR - 0.5 self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:ASR,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:icas-selfstudy-rp1-20261207-44@copilot.microsoft.com
+DTSTAMP:20260922T112827Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:RP1 - 0.5 self-study day
+DESCRIPTION:Source: All 5 subjects timetable. Yellow cells are self-study learning days.
+CATEGORIES:RP1,Self Study
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
